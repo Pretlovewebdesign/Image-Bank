@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron {
+color: black;
+background: #D7DEE0;
+margin-top: 100px;
+}
+
+
+.navbar-inverse {
+	background: #990012;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+
+.thumbnail {
+	border: solid 3px #990012;
+}
+
+ p {
+	text-align: center;
+	font-family: Gabriola;
+	font-size: 300%;
+}
+
+h1	{
+	text-align: center;
+	font-family: Shoguns Clan;
+}
+
+h1:hover {
+	background-color: #D7DEE0;
+    color: #990012;
+}
+
+.pagination>li>a, .pagination>li>span {
+	background-color: #990012;
+	color: white;
+
+}
+
+.pagination>li>a, .pagination>li>span:hover {
+background-color: #990012!important;
+color: white!important;
+}
+
+
+

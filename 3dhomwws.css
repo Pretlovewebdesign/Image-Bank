@@ -1,0 +1,27 @@
+
+
+
+h2	{
+	font-family: Shoguns Clan;
+	color: white;
+	text-align: center;
+	font-size: 700%;
+}
+
+hr {
+	width: 60%;
+}
+
+body {
+	background:url(best-karate-hd-wallpaper-3D.jpg);
+	background-size: 130%;
+	background-position: center;
+}
+
+h2:hover {
+    color: #990012;
+}
+
+button {
+	text-align: center;
+}
